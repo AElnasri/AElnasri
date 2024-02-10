@@ -13,10 +13,6 @@
    - Data Analysis: R, SQL
    - Visualization: PowerBI, Tableau
 
-🔭 **Projects:**
-   - [Project 1 Name]: Brief description highlighting your role and achievements.
-   - [Project 2 Name]: Showcase a variety of projects to demonstrate your versatility.
-   - [Project 3 Name]: Mention any open source contributions or collaborative projects.
 
 📚 **Education:**
    - Bachelor degree in Electrical, Electronics and Communications Engineer from Khartoum University
